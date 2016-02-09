@@ -1,2 +1,2 @@
 # Selenium-Java
-SQA course Selenium-Java homework
+SQA course Selenium-Java homework. 
